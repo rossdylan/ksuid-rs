@@ -1,0 +1,11 @@
+[package]
+name = "ksuid"
+version = "0.1.0"
+authors = ["Ross Delinger <rossdylan@fastmail.com>"]
+
+[dependencies]
+byteorder = "1"
+chrono = "0.4"
+failure = "0.1.1"
+failure_derive = "0.1.1"
+rand = "0.3"
